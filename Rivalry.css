@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-right:0;
+    padding: 0; 
+    background:#292929;
+}
+
+header {
+    background-color:rgb(60, 0, 255);
+    padding: 10px;
+    text-align: center;
+    color: silver; 
+    border-style: solid ;
+}
+
+nav {
+    background-color:; 
+    border-style: solid;
+    
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: silver;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color:silver;
+    
+    color: blue;
+}
+
+section {
+    padding-right: 400px; 
+    color: white;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%; 
+    color: white;
+} 
+
+body, section {
+    background-color: ; /* zwarte achtergrond */
+    color: white; /* groene tekst */
+    font-family: 'Courier New', monospace; /* monospace lettertype voor een tech-look */
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1, h2, h3, p {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    color: #00ff00; /* groene kleur voor links */
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Voeg andere stijlregels toe naar wens */ 
+
+  img {
+    float: right; /* Laat alle afbeeldingen naar rechts uitlijnen */ 
+    float: inline: start 20px; 
+    margin: 0 0 20px 20px; /* Voeg marges toe om wat ruimte rond de afbeeldingen te creëren */
+  } 
+
+  img {
+
+  }
+  
+
+
+  header{ 
+    color: silver; /* groene kleur voor links */
+  }
+  
